@@ -222,6 +222,12 @@ pre {
   background-color: var(--MENU-SECTIONS-BG-color) !important;
 }
 
+.avatar-profile {
+  max-width: 200px;
+  height: auto;
+  border-radius: 8px;
+}
+
 div.notices.info p {
   border-top: 30px solid #fd9827;
   background: #fff2db;
